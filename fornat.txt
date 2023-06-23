@@ -1,1 +1,1 @@
-login,password,ip
+host|user|pass
